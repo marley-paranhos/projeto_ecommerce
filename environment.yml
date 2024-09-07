@@ -1,9 +1,0 @@
-name: ecommerce
-channels:
-  - defaults
-dependencies:
-  - python=3.11
-  - flask
-  - sqlalchemy
-  - pip:
-      - some_pip_dependency
